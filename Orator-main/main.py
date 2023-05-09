@@ -12,7 +12,7 @@ Baidu_API_KEY = 'dlh6gQDLkpKWZKhgjxRGHo0p' # 你的百度API_KEY
 Baidu_SECRET_KEY = 'j4IVX3UalUCOG6E6oyCIsgcHaser1xI6' # 你的百度SECRET_KEY
 openai_api_key = "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"
 
-AZURE_API_KEY = "3e1c960933fa4820bef175f62bad6133"
+AZURE_API_KEY = "。。。。。。。。。。。。。。。。。3。。"
 AZURE_REGION = "eastus"
 
 
@@ -45,7 +45,7 @@ Baidu_API_KEY = 'dlh6gQDLkpKWZKhgjxRGHo0p' # 你的百度API_KEY
 Baidu_SECRET_KEY = 'j4IVX3UalUCOG6E6oyCIsgcHaser1xI6' # 你的百度SECRET_KEY
 openai_api_key = "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"
 
-AZURE_API_KEY = "3e1c960933fa4820bef175f62bad6133"
+AZURE_3e1c960933fa4820bef175f62bad6133
 AZURE_REGION = "eastus"
 
 def Orator():
